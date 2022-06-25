@@ -63,11 +63,11 @@ Protocols on my computer:
 |com.epicgames.launcher|ms-holographicfirstrun|rdcnc	|com.epicgames.launcher|ms-holographicfirstrun|rdcnc|
 |com.microsoft.3dviewer|ms-inputapp|read|com.microsoft.3dviewer|ms-inputapp|read|
 |conf|ms-insights|receiver|conf|ms-insights|receiver|
-|discord-349947310375043074|ms-ipmessaging|res|discord-349947310375043074|ms-ipmessaging|res|
-|discord-361968954954219521|ms-meetnowflyout|rlogin|discord-361968954954219521|ms-meetnowflyout|rlogin|
-|discord-464045794530557953|ms-mmsys|rtkuwp|discord-464045794530557953|ms-mmsys|rtkuwp|
-|discord-531450167799447552|ms-msdt|search|discord-531450167799447552|ms-msdt|search|
-|discord-550022696642281486|ms-msime-imepad|search-ms|discord-550022696642281486|ms-msime-imepad|search-ms|
+|discord-<unique ID> |ms-ipmessaging|res|discord-<unique ID> |ms-ipmessaging|res|
+|discord-<unique ID> |ms-meetnowflyout|rlogin|discord-<unique ID> |ms-meetnowflyout|rlogin|
+|discord-<unique ID> |ms-mmsys|rtkuwp|discord-<unique ID> |ms-mmsys|rtkuwp|
+|discord-<unique ID> |ms-msdt|search|discord-<unique ID> |ms-msdt|search|
+|discord-<unique ID> |ms-msime-imepad|search-ms|discord-<unique ID> |ms-msime-imepad|search-ms|
 |DLNA-PLAYSINGLE|ms-msime-imjpdct|sgnl|DLNA-PLAYSINGLE|ms-msime-imjpdct|sgnl|
 |eadm|ms-officeapp|signalcaptcha|eadm|ms-officeapp|signalcaptcha|
 |ealink|ms-officecmd|sip|ealink|ms-officecmd|sip|
@@ -83,8 +83,8 @@ Protocols on my computer:
 |feedback-hub|ms-print-addprinter|steamlink|feedback-hub|ms-print-addprinter|steamlink|
 |feeds|ms-print-printjobs|steamtours|feeds|ms-print-printjobs|steamtours|
 |file|ms-publisher|stssync|file|ms-publisher|stssync|
-|FirefoxURL-308046B0AF4A39CB|ms-quick-assist|tbauth	|FirefoxURL-308046B0AF4A39CB|ms-quick-assist|tbauth|
-|FirefoxURL-CA9422711AE1A81C|ms-rdx-document|tel	|FirefoxURL-CA9422711AE1A81C|ms-rdx-document|tel|
+|FirefoxURL-<unique ID> |ms-quick-assist|tbauth	|FirefoxURL-<unique ID> |ms-quick-assist|tbauth|
+|FirefoxURL-<unique ID> |ms-rdx-document|tel	|FirefoxURL-<unique ID> |ms-rdx-document|tel|
 |ftp|ms-retaildemo-launchbioenrollment|telnet	|ftp|ms-retaildemo-launchbioenrollment|telnet|
 |GeForceExperience|ms-retaildemo-launchstart|tg	|GeForceExperience|ms-retaildemo-launchstart|tg|
 |git-client|ms-screenclip|tn3270|git-client|ms-screenclip|tn3270|
@@ -121,7 +121,7 @@ Protocols on my computer:
 |mapi|ms-windows-store|xbox-store|mapi|ms-windows-store|xbox-store|
 |mapi16|ms-windows-store-deskext|xbox-tcui|mapi16|ms-windows-store-deskext|xbox-tcui|
 |microsoft-edge|ms-windows-store2|xboxgames|microsoft-edge|ms-windows-store2|xboxgames|
-|microsoft-edge-holographic|ms-word|xboxliveapp-1297287741	|microsoft-edge-holographic|ms-word|xboxliveapp-1297287741|
+|microsoft-edge-holographic|ms-word|xboxliveapp-1297287741	|microsoft-edge-holographic|ms-word|xboxliveapp-<unique ID> |
 |microsoft.windows.camera|ms-wpc|xboxmusi	|microsoft.windows.camera|ms-wpc|xboxmusic|
 |microsoft.windows.camera.multipicker|ms-wpdrmv|zoommtg|microsoft.windows.camera.multipicker|ms-wpdrmv|zoommtg|
 |microsoft.windows.camera.picker|ms-xbet-survey|ZoomPbx.im|microsoft.windows.camera.picker|ms-xbet-survey|ZoomPbx.im|

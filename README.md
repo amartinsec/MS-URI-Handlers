@@ -22,7 +22,7 @@ For the past year, I've been spending some time investigating how URI protocols 
 
 It's easy to see what apps are associated with protocols. A simple Windows search of 'Choose a default app for each protocol' will take you to the settings page where these associations are listed. After looking at this list, I noticed it was missing URI's that I knew were associated with my OS such as the Outlooks 'feed:' URI.
 
-After digging through the registry, there a many URI's that aren't listed in the settings page. As of now, I'm not sure why MS pulls in some values to show while others are hidden in the reg. Searching the registry for 'URL:' will show you schemes registered to URI's. I have also found an IANA (link at the bottom) that has been helpful while digging into these schemes.
+After digging through the registry, there a many URI's that aren't listed in the settings page. As of now, I'm not sure why MS pulls in some values to show while others are hidden in the reg. Searching the registry for 'URL:' will show you schemes registered to URI's. I have also found an IANA (link at the bottom) that has been helpful while looking into these schemes.
 
 ```
 Powershell command to search here

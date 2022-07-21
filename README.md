@@ -1,5 +1,5 @@
 # MS-URI-Handlers
-*<sub>Note: The information below was tested from my personal computer. Values may be different from your own computer</sub>*
+*<sub>Note: The information below was tested from my personal computer. Values may be different from your own</sub>*
 
 ## Primer
 Anytime you make a request in the browser, add an external link to a document, etc. Windows first checks what protocol is speified. The most common are web requests that use HTTP and HTTPS such as:

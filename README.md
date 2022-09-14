@@ -28,7 +28,14 @@ After digging through the registry, there a many URI's that aren't listed in the
 Powershell command to search here
 ```
 
-In the registry, some URI associations will begin with a period such as '.zip'. These URI's will not work when typed in a web browser since they are missing the 'URL Protocol' registry entry, but will maintain their association if the Windows Search feature is used. 
+After testing, I've found some interesting behavior with the schemes. Any scheme with a "." in it will not resolve if entered directly into the web browser and is treated as http. 
+
+Ex:
+```microsoft.windows.camera://``` entered into the address bar of a web browser will get interpreted as --> http://microsoft.windows.camera//
+
+Entering it in the run bar, opens the camera as expected. To bypass the browser not interpreting correctly, the schemes can be included on the page itself:
+```<a href="microsoft.windows.camera://">microsoft.windows.camera</a></li>``` will properly interpret the scheme when clicked.
+
 
 Protocols on my computer:
 | Protocols  |  |  |  |  |  | 

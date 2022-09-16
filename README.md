@@ -38,105 +38,102 @@ Entering it in the run bar, opens the camera as expected. To bypass the browser 
 
 
 Protocols on my computer:
-| Protocols  |  |  |  |  |  | 
-| --- | --- | --- | --- | --- | --- |
-|AAM|Microsoft.Workfolders|msnweather|AAM|Microsoft.Workfolders|msnweather|
-|accnc|microsoftmusic|mssharepointclient|accnc|microsoftmusic|mssharepointclient|
-|acrobat|microsoftvideo|msteams|acrobat|microsoftvideo|msteams|
-|acrobat2018|mk|mswindowsmusic|acrobat2018|mk|mswindowsmusic|
-|acrobat2019|MMS|mswindowsvideo	|acrobat2019|MMS|mswindowsvideo|
-|acrobat2020|ms-aad-brokerplugin|NordVPN|acrobat2020|ms-aad-brokerplugin|NordVPN|
-|acrobat2021.oauth2|ms-access|NordVPN.Notification	|acrobat2021.oauth2|ms-access|NordVPN.Notification|
-|adbps|ms-actioncenter|nxm|adbps|ms-actioncenter|nxm|
-|adcnc|ms-appinstaller|oculus|adcnc|ms-appinstaller|oculus|
-|adobe.genuine.invoker|ms-apprep|odopen	|adobe.genuine.invoker|ms-apprep|odopen|
-|appinstaller.oauth2|ms-availablenetworks|OneIndex16	|appinstaller.oauth2|ms-availablenetworks|OneIndex16|
-|armodelviewing|ms-calculator|onenote|armodelviewing|ms-calculator|onenote|
-|auphd|ms-clock|onenote-cmd|auphd|ms-clock|onenote-cmd|
-|battlenet|ms-contact-support|OneNote.URL.16	|battlenet|ms-contact-support|OneNote.URL.16|
-|bingmaps|ms-cortana2|OneNoteDesktop|bingmaps|ms-cortana2|OneNoteDesktop|
-|bingweather|ms-cxh|OneNoteDesktop.URL.16	bingweather|ms-cxh|OneNoteDesktop.URL.16|
-|bittorrent|ms-cxh-full|openvpn-connect|bittorrent|ms-cxh-full|openvpn-connect|
-|blizzard|ms-default-location|origin|blizzard|ms-default-location|origin|
-|Blizzard.URI.Battlenet|ms-device-enrollment|origin2|Blizzard.URI.Battlenet|ms-device-enrollment|origin2|
-|Blizzard.URI.Blizzard|ms-drive-to|Outlook.URL.feed.15|Blizzard.URI.Blizzard|ms-drive-to|Outlook.URL.feed.15|
-|Blizzard.URI.Heroes|ms-excel|Outlook.URL.mailto.15|Blizzard.URI.Heroes|ms-excel|Outlook.URL.mailto.15|
-|Blizzard.URI.SC2|ms-eyecontrolspeech|Outlook.URL.stssync.15|Blizzard.URI.SC2|ms-eyecontrolspeech|Outlook.URL.stssync.15|
-|calculator|ms-gamebar|Outlook.URL.webcal.15|calculator|ms-gamebar|Outlook.URL.webcal.15|
-|callto|ms-gamebarservices|outlookaccounts|callto|ms-gamebarservices|outlookaccounts|
-|citrixonline|ms-gamingoverlay|outlookcal|citrixonline|ms-gamingoverlay|outlookcal|
-|citrixonline551|ms-get-started|outlookmail|citrixonline551|ms-get-started|outlookmail|
-|com.epicgames.eos|ms-getoffice|paintdotnet|com.epicgames.eos|ms-getoffice|paintdotnet|
-|com.epicgames.launcher|ms-holographicfirstrun|rdcnc	|com.epicgames.launcher|ms-holographicfirstrun|rdcnc|
-|com.microsoft.3dviewer|ms-inputapp|read|com.microsoft.3dviewer|ms-inputapp|read|
-|conf|ms-insights|receiver|conf|ms-insights|receiver|
-|discord-<unique ID> |ms-ipmessaging|res|discord-<unique ID> |ms-ipmessaging|res|
-|discord-<unique ID> |ms-meetnowflyout|rlogin|discord-<unique ID> |ms-meetnowflyout|rlogin|
-|discord-<unique ID> |ms-mmsys|rtkuwp|discord-<unique ID> |ms-mmsys|rtkuwp|
-|discord-<unique ID> |ms-msdt|search|discord-<unique ID> |ms-msdt|search|
-|discord-<unique ID> |ms-msime-imepad|search-ms|discord-<unique ID> |ms-msime-imepad|search-ms|
-|DLNA-PLAYSINGLE|ms-msime-imjpdct|sgnl|DLNA-PLAYSINGLE|ms-msime-imjpdct|sgnl|
-|eadm|ms-officeapp|signalcaptcha|eadm|ms-officeapp|signalcaptcha|
-|ealink|ms-officecmd|sip|ealink|ms-officecmd|sip|
-|exodus|ms-oobenetwork|sips|exodus|ms-oobenetwork|sips|
-|Explorer.AssocActionId.BurnSelection|ms-paint|skype|Explorer.AssocActionId.BurnSelection|ms-paint|skype|
-|Explorer.AssocActionId.EraseDisc|ms-pchealthcheck|skype-meetnow|Explorer.AssocActionId.EraseDisc|ms-pchealthcheck|skype-meetnow|
-|Explorer.AssocActionId.ZipSelection|ms-penworkspace|skypecast15|Explorer.AssocActionId.ZipSelection|ms-penworkspace|skypecast15|
-|Explorer.AssocProtocol.search-ms|ms-people|skypewin|Explorer.AssocProtocol.search-ms|ms-people|skypewin|
-|Explorer.BurnSelection|ms-perception-simulation|slack|Explorer.BurnSelection|ms-perception-simulation|slack|
-|Explorer.EraseDisc|ms-phone|spotify|Explorer.EraseDisc|ms-phone|spotify|
-|Explorer.ZipSelection|ms-photos|starcraft|Explorer.ZipSelection|ms-photos|starcraft|
-|feed|ms-powerpoint|steam	|feed|ms-powerpoint|steam|
-|feedback-hub|ms-print-addprinter|steamlink|feedback-hub|ms-print-addprinter|steamlink|
-|feeds|ms-print-printjobs|steamtours|feeds|ms-print-printjobs|steamtours|
-|file|ms-publisher|stssync|file|ms-publisher|stssync|
-|FirefoxURL-<unique ID> |ms-quick-assist|tbauth	|FirefoxURL-<unique ID> |ms-quick-assist|tbauth|
-|FirefoxURL-<unique ID> |ms-rdx-document|tel	|FirefoxURL-<unique ID> |ms-rdx-document|tel|
-|ftp|ms-retaildemo-launchbioenrollment|telnet	|ftp|ms-retaildemo-launchbioenrollment|telnet|
-|GeForceExperience|ms-retaildemo-launchstart|tg	|GeForceExperience|ms-retaildemo-launchstart|tg|
-|git-client|ms-screenclip|tn3270|git-client|ms-screenclip|tn3270|
-|gotomeeting|ms-screensketch|uplay|gotomeeting|ms-screensketch|uplay|
-|gotomeeting18962|ms-search|viscosity	|gotomeeting18962|ms-search|viscosity|
-|gotomeeting19228|ms-settings|viscosityserial|gotomeeting19228|ms-settings|viscosityserial|
-|gotomeeting19598|ms-settings-airplanemode|vm|gotomeeting19598|ms-settings-airplanemode|vm|
-|gotomeeting19796|ms-settings-bluetooth|vmrc|gotomeeting19796|ms-settings-bluetooth|vmrc|
-|gotomeeting19932|ms-settings-cellular|vms|gotomeeting19932|ms-settings-cellular|vms|
-|gotomeeting19950|ms-settings-connectabledevices|vmware-rvm	|gotomeeting19950|ms-settings-connectabledevices|vmware-rvm|
-|gotoopener|ms-settings-displays-topology|vrmonitor|gotoopener|ms-settings-displays-topology|vrmonitor|
-|gotoopener551|ms-settings-emailandaccounts|vsls|gotoopener551|ms-settings-emailandaccounts|vsls|
-|grvopen|ms-settings-language|vstfs|grvopen|ms-settings-language|vstfs|
-|heroes|ms-settings-location|vsweb|heroes|ms-settings-location|vsweb|
-|http|ms-settings-lock|webcal	|http|ms-settings-lock|webcal|
-|https|ms-settings-mobilehotspot|webcals|https|ms-settings-mobilehotspot|webcals|
-|IE.HTTP|ms-settings-notifications|whatsapp	|IE.HTTP|ms-settings-notifications|whatsapp|
-|iehistory|ms-settings-power|windows-feedback	iehistory|ms-settings-power|windows-feedback|
-|ierss|ms-settings-privacy|windows.tbauth|ierss|ms-settings-privacy|windows.tbauth|
-|im|ms-settings-proximity|windowsdefender|im|ms-settings-proximity|windowsdefender|
-|insiderhub|ms-settings-screenrotation|WMP11.AssocProtocol.DLNA-PLAYSINGLE|insiderhub|ms-settings-screenrotation|WMP11.AssocProtocol.DLNA-PLAYSINGLE|
-|jnlp|ms-settings-wifi|WMP11.AssocProtocol.MMS|jnlp|ms-settings-wifi|WMP11.AssocProtocol.MMS|
-|jnlps|ms-settings-workplace|wpa|jnlps|ms-settings-workplace|wpa|
-|launchacrobat|ms-sttoverlay|xbls|launchacrobat|ms-sttoverlay|xbls|
-|launchreader|ms-taskswitcher|xbox|launchreader|ms-taskswitcher|xbox|
-|LDAP|ms-teams|xbox-arena	|LDAP|ms-teams|xbox-arena|
-|link2ea|ms-unistore-email|xbox-captures|link2ea|ms-unistore-email|xbox-captures|
-|Lync15|ms-virtualtouchpad|xbox-friendfinder|Lync15|ms-virtualtouchpad|xbox-friendfinder|
-|Lync15classic|ms-voip-call|xbox-gamehub|Lync15classic|ms-voip-call|xbox-gamehub|
-|ma-chan|ms-voip-video|xbox-lfg|ma-chan|ms-voip-video|xbox-lfg|
-|ma-filelink|ms-walk-to|xbox-network|ma-filelink|ms-walk-to|xbox-network|
-|Magnet|ms-wcrv|xbox-profile|Magnet|ms-wcrv|xbox-profile|
-|mailto|ms-windows-search|xbox-settings|mailto|ms-windows-search|xbox-settings|
-|mapi|ms-windows-store|xbox-store|mapi|ms-windows-store|xbox-store|
-|mapi16|ms-windows-store-deskext|xbox-tcui|mapi16|ms-windows-store-deskext|xbox-tcui|
-|microsoft-edge|ms-windows-store2|xboxgames|microsoft-edge|ms-windows-store2|xboxgames|
-|microsoft-edge-holographic|ms-word|xboxliveapp-1297287741	|microsoft-edge-holographic|ms-word|xboxliveapp-<unique ID> |
-|microsoft.windows.camera|ms-wpc|xboxmusi	|microsoft.windows.camera|ms-wpc|xboxmusic|
-|microsoft.windows.camera.multipicker|ms-wpdrmv|zoommtg|microsoft.windows.camera.multipicker|ms-wpdrmv|zoommtg|
-|microsoft.windows.camera.picker|ms-xbet-survey|ZoomPbx.im|microsoft.windows.camera.picker|ms-xbet-survey|ZoomPbx.im|
-|microsoft.windows.photos.crop|ms-xbl-3d8b930f|ZoomPbx.zoomphonecall|microsoft.windows.photos.crop|ms-xbl-3d8b930f|ZoomPbx.zoomphonecall|
-|microsoft.windows.photos.picker|ms-xgpueject|ZoomPhoneCall|microsoft.windows.photos.picker|ms-xgpueject|ZoomPhoneCall|
-|microsoft.windows.photos.videoedit|msi-dc|zunemicrosoft.windows.photos.videoedit|msi-dc|zune|
-
-
+| Protocols  |  |  |  
+| --- | --- | --- |
+|AAM://|microsoft-edge-holographic://|ms-word://|
+|accnc://|microsoftmusic://|ms-wpc://|
+|acrobat://|microsoftvideo://|ms-wpdrmv://|
+|acrobat2018://|mk://|ms-xbet-survey://|
+|acrobat2019://|MMS://|ms-xbl-3d8b930f://|
+|acrobat2020://|ms-aad-brokerplugin://|ms-xgpueject://|
+|acrobat2021.oauth2://|ms-access://|NordVPN.Notification://|
+|adbps://|ms-actioncenter://|NordVPN://|
+|adcnc://|ms-appinstaller://|nxm://|
+|adobe.genuine.invoker://|ms-apprep://|oculus://|
+|appinstaller.oauth2://|ms-availablenetworks://|odopen://|
+|armodelviewing://|ms-calculator://|OneIndex16://|
+|auphd://|ms-clock://|OneNote.URL.16://|
+|battlenet://|ms-contact-support://|onenote://|
+|bingmaps://|ms-cortana2://|onenote-cmd://|
+|bingweather://|ms-cxh://|OneNoteDesktop.URL.16 bingweather://|
+|bittorrent://|ms-cxh-full://|OneNoteDesktop://|
+|Blizzard.URI.Battlenet://|ms-default-location://|openvpn-connect://|
+|Blizzard.URI.Blizzard://|ms-device-enrollment://|origin://|
+|Blizzard.URI.Heroes://|ms-drive-to://|origin2://|
+|Blizzard.URI.SC2://|ms-excel://|Outlook.URL.feed.15://|
+|blizzard://|ms-eyecontrolspeech://|Outlook.URL.mailto.15://|
+|calculator://|ms-gamebar://|Outlook.URL.stssync.15://|
+|callto://|ms-gamebarservices://|Outlook.URL.webcal.15://|
+|citrixonline://|ms-gamingoverlay://|outlookaccounts://|
+|citrixonline551://|ms-getoffice://|outlookcal://|
+|com.epicgames.eos://|ms-get-started://|outlookmail://|
+|com.epicgames.launcher://|ms-holographicfirstrun://|paintdotnet://|
+|com.microsoft.3dviewer://|msi-dc://|rdcnc://|
+|conf://|ms-inputapp://|read://|
+|discord-://|ms-insights://|receiver://|
+|discord-://|ms-ipmessaging://|res://|
+|discord-://|ms-meetnowflyout://|rlogin://|
+|discord-://|ms-mmsys://|rtkuwp://|
+|discord-://|ms-msdt://|search://|
+|DLNA-PLAYSINGLE://|ms-msime-imepad://|search-ms://|
+|eadm://|ms-msime-imjpdct://|sgnl://|
+|ealink://|msnweather://|signalcaptcha://|
+|exodus://|ms-officeapp://|sip://|
+|Explorer.AssocActionId.BurnSelection://|ms-officecmd://|sips://|
+|Explorer.AssocActionId.EraseDisc://|ms-oobenetwork://|skype://|
+|Explorer.AssocActionId.ZipSelection://|ms-paint://|skypecast15://|
+|Explorer.AssocProtocol.search-ms://|ms-pchealthcheck://|skype-meetnow://|
+|Explorer.BurnSelection://|ms-penworkspace://|skypewin://|
+|Explorer.EraseDisc://|ms-people://|slack://|
+|Explorer.ZipSelection://|ms-perception-simulation://|spotify://|
+|feed://|ms-phone://|steamlink://|
+|feedback-hub://|ms-photos://|steamtours://|
+|feeds://|ms-powerpoint://|stssync://|
+|FirefoxURL-://|ms-print-addprinter://|tbauth://|
+|FirefoxURL-://|ms-print-printjobs://|tel://|
+|ftp://|ms-publisher://|telnet://|
+|GeForceExperience://|ms-quick-assist://|tg://|
+|git-client://|ms-rdx-document://|tn3270://|
+|gotomeeting://|ms-retaildemo-launchbioenrollment://|uplay://|
+|gotomeeting18962://|ms-retaildemo-launchstart://|viscosity://|
+|gotomeeting19228://|ms-screenclip://|viscosityserial://|
+|gotomeeting19598://|ms-screensketch://|vm://|
+|gotomeeting19796://|ms-search://|vmrc://|
+|gotomeeting19932://|ms-settings://|vms://|
+|gotomeeting19950://|ms-settings-airplanemode://|vmware-rvm://|
+|gotoopener://|ms-settings-bluetooth://|vrmonitor://|
+|gotoopener551://|ms-settings-cellular://|vsls://|
+|grvopen://|ms-settings-connectabledevices://|vstfs://|
+|heroes://|ms-settings-displays-topology://|vsweb://|
+|http://|ms-settings-emailandaccounts://|webcal://|
+|https://|ms-settings-language://|webcals://|
+|iehistory://|ms-settings-location://|whatsapp://|
+|ierss://|ms-settings-lock://|windows.tbauth://|
+|im://|ms-settings-mobilehotspot://|windowsdefender://|
+|insiderhub://|ms-settings-notifications://|windows-feedback iehistory://|
+|jnlp://|ms-settings-power://|WMP11.AssocProtocol.DLNA-PLAYSINGLE://|
+|jnlps://|ms-settings-privacy://|WMP11.AssocProtocol.MMS://|
+|launchacrobat://|ms-settings-proximity://|wpa://|
+|launchreader://|ms-settings-screenrotation://|xbls://|
+|LDAP://|ms-settings-wifi://|xbox://|
+|link2ea://|ms-settings-workplace://|xbox-arena://|
+|Lync15://|mssharepointclient://|xbox-captures://|
+|Lync15classic://|ms-sttoverlay://|xbox-friendfinder://|
+|ma-chan://|ms-taskswitcher://|xbox-gamehub://|
+|ma-filelink://|msteams://|xboxgames://|
+|Magnet://|ms-teams://|xbox-lfg://|
+|mailto://|ms-unistore-email://|xboxliveapp-1297287741://|
+|mapi://|ms-virtualtouchpad://|xboxmusi://|
+|mapi16://|ms-voip-call://|xbox-network://|
+|microsoft.windows.camera.multipicker://|ms-voip-video://|xbox-profile://|
+|microsoft.windows.camera.picker://|ms-walk-to://|xbox-settings://|
+|microsoft.windows.camera://|ms-wcrv://|xbox-store://|
+|microsoft.windows.camera://|mswindowsmusic://|xbox-tcui://|
+|microsoft.windows.photos.crop://|ms-windows-search://|zoommtg://|
+|microsoft.windows.photos.picker://|ms-windows-store://|ZoomPbx.im://|
+|microsoft.windows.photos.videoedit://|ms-windows-store2://|ZoomPbx.zoomphonecall://|
+|Microsoft.Workfolders://|ms-windows-store-deskext://|ZoomPhoneCall://|
+|microsoft-edge://|mswindowsvideo://|zunemicrosoft.windows.photos.videoedit://|
 
 ## Links
   

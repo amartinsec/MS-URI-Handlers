@@ -1,5 +1,5 @@
 # MS-URI-Handlers
-*<sub>Note: The information below was tested from my personal computer. Values may be different from your own</sub>*
+*<sub>Note: The information below was tested from my personal computer. Results will be different from your own</sub>*
 
 ## Primer
 Anytime you make a request in the browser, add an external link to a document, etc. Windows first checks what protocol is speified. The most common are web requests that use HTTP and HTTPS such as:
@@ -25,10 +25,10 @@ It's easy to see what apps are associated with protocols. A simple Windows searc
 After digging through the registry, there a many URI's that aren't listed in the settings page. As of now, I'm not sure why MS pulls in some values to show while others are hidden in the reg. Searching the registry for 'URL:' will show you schemes registered to URI's. I have also found an IANA (link at the bottom) that has been helpful while looking into these schemes.
 
 ```
-Powershell command to search here
+gci -ea SilentlyContinue -recurse HKLM:\ | get-itemproperty | where { $_  -match 'URL:' }
 ```
 
-After testing, I've found some interesting behavior with the schemes. Any scheme with a "." in it will not resolve if entered directly into the web browser and is treated as http. 
+Note: Any scheme with a "." in it will not resolve if entered directly into the web browser and is treated as http. 
 
 Ex:
 ```microsoft.windows.camera://``` entered into the address bar of a web browser will get interpreted as --> http://microsoft.windows.camera//
@@ -37,7 +37,7 @@ Entering it in the run bar, opens the camera as expected. To bypass the browser 
 ```<a href="microsoft.windows.camera://">microsoft.windows.camera</a></li>``` will properly interpret the scheme when clicked.
 
 
-Protocols on my computer:
+Protocols:
 | Protocols  |  |  |  
 | --- | --- | --- |
 |AAM://|microsoft-edge-holographic://|ms-word://|

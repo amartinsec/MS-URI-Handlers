@@ -1,5 +1,5 @@
 # MS-URI-Handlers
-*<sub>Note: The information below was tested from my personal computer. Results will be different from your own</sub>*
+*<sub>The information below was tested from my personal computer. Results will be different from your own</sub>*
 
 ## Primer
 Anytime you make a request in the browser, add an external link to a document, etc. Windows first checks what protocol is speified. The most common are web requests that use HTTP and HTTPS such as:
@@ -135,9 +135,9 @@ Protocols:
 |Microsoft.Workfolders://|ms-windows-store-deskext://|ZoomPhoneCall://|
 |microsoft-edge://|mswindowsvideo://|zunemicrosoft.windows.photos.videoedit://|
 
-
+<br/>
 After finding all handlers, I ran strings.exe against my whole system to find any refernces to the above:
-C:\Windows\*:
+C:\Windows\*:  
 
 | Protocols  |  |  |  
 | --- | --- | --- |

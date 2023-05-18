@@ -33,7 +33,7 @@ Note: Any scheme with a "." in it will not resolve if entered directly into the 
 Ex:
 ```microsoft.windows.camera://``` entered into the address bar of a web browser will get interpreted as --> http://microsoft.windows.camera//
 
-Entering it in the run bar, opens the camera as expected. To bypass the browser not interpreting correctly, the schemes can be included on the page itself:
+Entering it in the run bar, opens the camera as expected. To bypass the browser not interpreting correctly, the schemes can be included in an anchor tag:
 ```<a href="microsoft.windows.camera://">microsoft.windows.camera</a></li>``` will properly interpret the scheme when clicked.
 
 

@@ -6,7 +6,7 @@ Anytime you make a request in the browser, add an external link to a document, e
 ```
 https://github.com
 ```
-Here, we have the https to transfer data on the wire. This is just one of many protocols that Windows recognizies out of the box. Anytime a program is installed, it may make a registry entry to register the protocol handler. Typing 
+Here, we have https to transfer data on the wire. This is just one of many protocols that Windows recognizies out of the box. Anytime a program is installed, it may make a registry entry to register the protocol handler. Typing 
 ```
 calculator:
 ```

@@ -37,7 +37,7 @@ Entering it in the run bar, opens the camera as expected. To bypass the browser 
 ```<a href="microsoft.windows.camera://">microsoft.windows.camera</a></li>``` will properly interpret the scheme when clicked.
 
 
-Protocols:
+Protocols (as of 2022):
 | Protocols  |  |  |  
 | --- | --- | --- |
 |AAM://|microsoft-edge-holographic://|ms-word://|
